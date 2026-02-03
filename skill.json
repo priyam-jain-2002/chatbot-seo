@@ -2,12 +2,12 @@
   "name": "chatbot-seo",
   "version": "1.0.0",
   "description": "Optimize websites and content for AI chatbot retrieval and citation",
-  "author": "Chatbot SEO Skill Contributors",
+  "author": "Priyam Jain",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/chatbot-seo-skill",
+  "homepage": "https://github.com/priyam-jain-2002/chatbot-seo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/chatbot-seo-skill.git"
+    "url": "https://github.com/priyam-jain-2002/chatbot-seo.git"
   },
   "keywords": [
     "seo",
