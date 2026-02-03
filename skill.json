@@ -1,0 +1,80 @@
+{
+  "name": "chatbot-seo",
+  "version": "1.0.0",
+  "description": "Optimize websites and content for AI chatbot retrieval and citation",
+  "author": "Chatbot SEO Skill Contributors",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/chatbot-seo-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/chatbot-seo-skill.git"
+  },
+  "keywords": [
+    "seo",
+    "chatbot",
+    "ai-search",
+    "llm",
+    "optimization",
+    "content-strategy",
+    "chatgpt",
+    "gemini",
+    "perplexity",
+    "claude",
+    "answer-engine-optimization",
+    "aeo",
+    "geo",
+    "schema-markup"
+  ],
+  "main": "SKILL.md",
+  "scripts": {
+    "audit": "python scripts/audit_content.py",
+    "schema": "python scripts/schema_generator.py"
+  },
+  "dependencies": {
+    "python": ">=3.7",
+    "requests": ">=2.25.0",
+    "beautifulsoup4": ">=4.9.0",
+    "lxml": ">=4.6.0"
+  },
+  "skill": {
+    "type": "optimization",
+    "category": "content",
+    "platforms": [
+      "ChatGPT",
+      "Google Gemini",
+      "Perplexity",
+      "Claude"
+    ],
+    "triggers": [
+      "chatbot SEO",
+      "AI optimization",
+      "LLM discoverability",
+      "chatbot ranking",
+      "AI search optimization",
+      "answer engine optimization",
+      "content citation",
+      "schema markup"
+    ],
+    "features": [
+      "content-audit",
+      "schema-generation",
+      "keyword-research",
+      "platform-specific-optimization",
+      "citation-analysis"
+    ]
+  },
+  "files": [
+    "SKILL.md",
+    "scripts/",
+    "references/",
+    "README.md",
+    "LICENSE"
+  ],
+  "excludes": [
+    "*.pyc",
+    "__pycache__",
+    ".git",
+    ".gitignore",
+    "test-output"
+  ]
+}
