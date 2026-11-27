@@ -1,70 +1,22 @@
-# 🤖 Chatbot SEO Optimization Skill
+# Chatbot SEO — SEO / GEO engineering skill
 
-> Optimize your content for AI-powered search engines and chatbots (ChatGPT, Gemini, Claude, Perplexity)
+A decision-driven skill for improving search and AI discovery, answerability and business outcomes. It combines technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), geographic search and conversion-aware engineering.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Compatible with skill.sh](https://img.shields.io/badge/skill.sh-compatible-blue.svg)](https://skill.sh)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+## Workflow
 
-As AI chatbots become the new search interface, traditional SEO is evolving. This skill helps you optimize content for how Large Language Models retrieve, parse, and cite information—a practice known as **AEO** (Answer Engine Optimization) or **GEO** (Generative Engine Optimization).
+Discoverability → Retrievability → Answerability → Trust → Actionability → Measurement
 
-## ✨ Features
+Read [SKILL.md](SKILL.md) as the entry point. Use the [release gates](references/gates.md), [decision system](references/decision-system.md), [evaluation protocol](references/evaluation.md) and [implementation playbooks](references/playbooks.md). The skill works with headless commerce, service businesses and portfolios, without requiring a specific stack.
 
-- 🔍 **Content Audit Tool** - Analyze content with 7 quality checks, get 0-100 scores
-- 📐 **Schema Generator** - Create Article, FAQ, HowTo, and Person schemas
-- 📚 **Comprehensive Guides** - 20,000+ words covering 4 major platforms
-- 🎯 **Query Patterns** - 100+ natural language search examples
-- 📊 **Citation Optimization** - Proven tactics to increase AI citations
-- 🛠️ **Production Ready** - Tested scripts with auto-dependency installation
+## Install or inspect
 
-## 🚀 Quick Start
 ```bash
-# Install via skill.sh
-skill install chatbot-seo
-
-# Or clone and use scripts
-git clone https://github.com/yourusername/chatbot-seo-skill.git
-cd chatbot-seo-skill
-python scripts/audit_content.py your-article.html
+git clone https://github.com/priyam-jain-2002/chatbot-seo.git
+cd chatbot-seo
 ```
 
-## 💡 What You'll Optimize For
+Load SKILL.md in your agent's supported skill mechanism. Existing Python utilities and legacy references remain available; inspect dependencies and behavior before executing. Their scores are heuristics, not ranking predictions. No guaranteed indexing, citation or conversion uplift is claimed.
 
-- ✅ ChatGPT Search - Recent content, clear answers
-- ✅ Google Gemini - E-E-A-T signals, schema markup
-- ✅ Perplexity - Data-driven content, primary sources
-- ✅ Claude - Comprehensive coverage, source quality
-```
+## License
 
-## GitHub Topics/Tags
-```
-seo
-chatbot-seo
-ai-search
-llm
-optimization
-content-strategy
-chatgpt
-gemini
-perplexity
-claude
-answer-engine-optimization
-aeo
-geo
-schema-markup
-python
-skill-sh
-content-optimization
-ai-discovery
-natural-language-processing
-search-optimization
-```
-
-## One-Liner (for social media)
-```
-🤖 Optimize your content for AI chatbots! Audit tools, schema generators, and guides for ChatGPT, Gemini, Perplexity & Claude. MIT licensed. https://github.com/yourusername/chatbot-seo-skill
-```
-
-## Website/Tagline Version
-```
-The complete toolkit for optimizing content in the age of AI-powered search
+See the repository license.
